@@ -10,6 +10,10 @@ https://blog.csdn.net/iwuyuetian/article/details/82894318
 Git使用教程：最详细、最傻瓜、最浅显，小白都能看懂
 $ cd d:/testgit
 
+
+https://blog.csdn.net/rj597306518/article/details/71307757
+【Github教程】史上最全github使用方法：github入门到精通
+
 ww@DESKTOP-J62SIEV MINGW64 /d/testgit
 $ pwd
 /d/testgit
