@@ -1,4 +1,5 @@
 # lerning
+
 notes
 
 ## github 学习笔记
@@ -30,7 +31,10 @@ ww@DESKTOP-J62SIEV MINGW64 /d/testgit (master)
 在Git终端在输入ssh-keygen -t rsa -C "youremail@example.com" ( GitHub上注册时的邮箱
 -C 要大写
 需要先创建分支之后才能备份到本地??
+
+
 要在根目录上去进行CLONE.
 
+学习笔记更新
 
 
